@@ -1,8 +1,22 @@
+body
+{
+  font-family: "Arial";
+}
+h1
+{
+  background-color: #e2e2e2;
+  padding: 5px;
+  align-content: center;
+}
+
 .firstarticle
 {
-  color:red;
+  color:green;
 }
 .firstaside
 {
   color:rgb(3, 151, 161);
+  text-align: center;
+  border: solid black 3px;
+  border-radius: 20px;
 }
